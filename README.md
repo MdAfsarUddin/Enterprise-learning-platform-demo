@@ -1,4 +1,7 @@
 # Enterprise Learning Communication Platform Demo
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MdAfsarUddin/Healthcare-Management-Demo/main/03_Talk_Page.png" width="100%" />
+</p>
 Developed and maintained a cloud-based enterprise ASP.NET WebForms application for an Australian client. Worked on frontend, backend, SQL Server database management, IIS deployment, SSL configuration, and production support using IBM Cloud infrastructure.
 
 ---
