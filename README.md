@@ -93,11 +93,12 @@ IBM Cloud Windows Server + IIS
 ---
 
 ## Git Workflow Using Sourcetree
-<img src="./screenshots/Sourstree.png" width="85%"/>
-
+<img src="./screenshots/Soursetree.png" width="85%"/>
 </div>
+
 ---
-# Deployment Workflow
+
+## Deployment Workflow
 
 - Development using Visual Studio 2019
 - Source control using Bitbucket & Sourcetree
@@ -107,7 +108,7 @@ IBM Cloud Windows Server + IIS
   
 ---
 
-# Responsibilities Demonstrated
+## Responsibilities Demonstrated
 
 - Full Stack ASP.NET Development
 - SQL Server Database Management
@@ -121,7 +122,7 @@ IBM Cloud Windows Server + IIS
 
 ---
 
-# Disclaimer
+## Disclaimer
 
 This repository is a demo portfolio project created to demonstrate enterprise ASP.NET development experience and deployment workflow.  
 No confidential client source code or sensitive production information is included.
