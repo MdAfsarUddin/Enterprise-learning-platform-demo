@@ -43,41 +43,42 @@ Developed and maintained a cloud-based enterprise ASP.NET WebForms application f
 
 ---
 
-# Screenshots
+<div align="center">
 
 ## Login Page
-![Login Page](screenshots/login-page.png)
+<img src="./screenshots/01-Login.png" width="85%"/>
 
 ---
 
 ## Dashboard
-![Dashboard](screenshots/dashboard-home.png)
+<img src="./screenshots/02_Home.png" width="85%"/>
 
 ---
 
 ## Communication Module
-![Communication Module](screenshots/communication-module.png)
+<img src="./screenshots/03_Talk_Page.png" width="85%"/>
 
 ---
 
 ## Enterprise Solution Architecture
-![Architecture](screenshots/solution-architecture.png)
+<img src="./screenshots/04_Code_Architechture.png" width="85%"/>
 
 ---
 
 ## IBM Cloud SSL VPN Access
-![IBM Cloud](screenshots/ibm-cloud-access.png)
+<img src="./screenshots/05_IBM_Cloud.png" width="85%"/>
 
 ---
 
 ## IIS Deployment Environment
-![IIS Deployment](screenshots/iis-deployment.png)
+<img src="./screenshots/IIS_Setup.png" width="85%"/>
 
 ---
 
 ## Git Workflow Using Sourcetree
-![Git Workflow](screenshots/sourcetree-git-workflow.png)
+<img src="./screenshots/Sourstree.png" width="85%"/>
 
+</div>
 ---
 
 # Responsibilities Demonstrated
