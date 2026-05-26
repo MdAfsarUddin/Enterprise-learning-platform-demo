@@ -40,6 +40,20 @@ Developed and maintained a cloud-based enterprise ASP.NET WebForms application f
 - Repository Layer
 - Entity Layer
 - Database Layer
+---
+# System Architecture
+
+Client Browser
+   ↓
+ASP.NET WebForms UI
+   ↓
+Service Layer
+   ↓
+Repository Layer
+   ↓
+SQL Server Database
+   ↓
+IBM Cloud Windows Server + IIS
 
 ---
 
@@ -80,6 +94,15 @@ Developed and maintained a cloud-based enterprise ASP.NET WebForms application f
 
 </div>
 ---
+# Deployment Workflow
+
+- Development using Visual Studio 2019
+- Source control using Bitbucket & Sourcetree
+- Deployment to IBM Cloud Windows Server
+- IIS configuration and SSL binding
+- Production monitoring and maintenance
+  
+---
 
 # Responsibilities Demonstrated
 
@@ -91,6 +114,7 @@ Developed and maintained a cloud-based enterprise ASP.NET WebForms application f
 - Git Version Control Workflow
 - Enterprise Application Maintenance
 - Production Environment Support
+- Foreign Client Communication
 
 ---
 
